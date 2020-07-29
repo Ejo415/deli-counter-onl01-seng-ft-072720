@@ -1,6 +1,6 @@
 def line(array)
-if array.length == 0 
-  "The line is currently empty."
+  if array.length == 0 
+puts "The line is currently empty."
 
   end
 end
